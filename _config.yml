@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: http://feeds.feedburner.com/ViniciusTelesEN
-subscribe_email:
+subscribe_email: http://feeds.feedburner.com/ViniciusTelesEN
 # RSS feeds can list your email address if you like
 email:
 
@@ -96,3 +96,9 @@ facebook_like: yes
 
 # Facebook user
 facebook_user: viniciusmanhaesteles
+googleplus_user: 104662451283465127832
+twitter_user: viniciusteles
+github_user: viniciusteles
+linkedin_user: viniciusteles
+pinterest_user: viniciusteles
+coderwall_user: viniciusteles

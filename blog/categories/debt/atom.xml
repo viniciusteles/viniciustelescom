@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: debt | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.github.io/viniciustelescom/blog/categories/debt/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.github.io/viniciustelescom/"/>
-  <updated>2013-04-28T12:13:11-03:00</updated>
-  <id>http://viniciusteles.github.io/viniciustelescom/</id>
+  <link href="http://blog.viniciusteles.com/blog/categories/debt/atom.xml" rel="self"/>
+  <link href="http://blog.viniciusteles.com/"/>
+  <updated>2013-04-28T12:20:05-03:00</updated>
+  <id>http://blog.viniciusteles.com/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[How important is freedom for software developers?]]></title>
-    <link href="http://viniciusteles.github.io/viniciustelescom/is-freedom-important-for-software-developers"/>
+    <link href="http://blog.viniciusteles.com/is-freedom-important-for-software-developers"/>
     <updated>2013-01-18T00:00:00-02:00</updated>
-    <id>http://viniciusteles.github.io/viniciustelescom/is-freedom-important-for-software-developers</id>
-    <content type="html"><![CDATA[<p><img src="http://viniciusteles.github.io/viniciustelescom/images/freedom.jpg" alt="How important is freedom for software developers?" /><span style="font-size: x-small;">Photo by&nbsp;<a href="http://www.flickr.com/photos/johndrake45/6201369535/">John Drake</a>&nbsp;(<a href="http://creativecommons.org/licenses/by-nd/2.0/deed.en">CC</a>).</span></p>
+    <id>http://blog.viniciusteles.com/is-freedom-important-for-software-developers</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.viniciusteles.com/images/freedom.jpg" alt="How important is freedom for software developers?" /><span style="font-size: x-small;">Photo by&nbsp;<a href="http://www.flickr.com/photos/johndrake45/6201369535/">John Drake</a>&nbsp;(<a href="http://creativecommons.org/licenses/by-nd/2.0/deed.en">CC</a>).</span></p>
 
 
 <p>&nbsp;</p>

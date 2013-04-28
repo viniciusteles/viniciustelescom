@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meet up | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.github.io/viniciustelescom/blog/categories/meet-up/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.github.io/viniciustelescom/"/>
-  <updated>2013-04-28T12:13:11-03:00</updated>
-  <id>http://viniciusteles.github.io/viniciustelescom/</id>
+  <link href="http://blog.viniciusteles.com/blog/categories/meet-up/atom.xml" rel="self"/>
+  <link href="http://blog.viniciusteles.com/"/>
+  <updated>2013-04-28T12:20:05-03:00</updated>
+  <id>http://blog.viniciusteles.com/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Couch Surfing]]></title>
-    <link href="http://viniciusteles.github.io/viniciustelescom/couch-surfing"/>
+    <link href="http://blog.viniciusteles.com/couch-surfing"/>
     <updated>2013-01-07T00:00:00-02:00</updated>
-    <id>http://viniciusteles.github.io/viniciustelescom/couch-surfing</id>
+    <id>http://blog.viniciusteles.com/couch-surfing</id>
     <content type="html"><![CDATA[<p>You know that moment when you realize how stupid you've been? That's the feeling I've had for the last two days. Let me explain.</p>
 
 
@@ -66,7 +66,7 @@
 <p>&nbsp;</p>
 
 
-<p><img src="http://viniciusteles.github.io/viniciustelescom/images/cs-meetup.jpg" alt="Couch Surfing" /></p>
+<p><img src="http://blog.viniciusteles.com/images/cs-meetup.jpg" alt="Couch Surfing" /></p>
 
 
 <p />

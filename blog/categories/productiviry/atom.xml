@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: productiviry | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.github.io/viniciustelescom/blog/categories/productiviry/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.github.io/viniciustelescom/"/>
-  <updated>2013-04-28T12:13:11-03:00</updated>
-  <id>http://viniciusteles.github.io/viniciustelescom/</id>
+  <link href="http://blog.viniciusteles.com/blog/categories/productiviry/atom.xml" rel="self"/>
+  <link href="http://blog.viniciusteles.com/"/>
+  <updated>2013-04-28T12:20:05-03:00</updated>
+  <id>http://blog.viniciusteles.com/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Digital nomad: effects on productivity]]></title>
-    <link href="http://viniciusteles.github.io/viniciustelescom/digital-nomad-effects-on-productivity"/>
+    <link href="http://blog.viniciusteles.com/digital-nomad-effects-on-productivity"/>
     <updated>2012-11-22T00:00:00-02:00</updated>
-    <id>http://viniciusteles.github.io/viniciustelescom/digital-nomad-effects-on-productivity</id>
+    <id>http://blog.viniciusteles.com/digital-nomad-effects-on-productivity</id>
     <content type="html"><![CDATA[<p><a href="http://patriciafigueira.com.br">Patricia</a>&nbsp;and I became <a href="http://en.wikipedia.org/wiki/Digital_nomad">digital nomads</a> a couple of years ago. We've been to dozens of cities and countries along the way. But it's not only leisure. As a matter of fact, we're working most of the time, regardless of our current location.</p>
 
 

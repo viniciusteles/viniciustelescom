@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://viniciusteles.github.io/viniciustelescom
+url: http://blog.viniciusteles.com
 title: Vinícius Teles
 subtitle: Nomadic experiences
 author: Vinícius Teles
@@ -93,3 +93,6 @@ google_analytics_tracking_id: UA-27555940-1
 
 # Facebook Like
 facebook_like: yes
+
+# Facebook user
+facebook_user: viniciusmanhaesteles

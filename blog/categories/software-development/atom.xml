@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: software development | Vinícius Teles]]></title>
+  <link href="http://viniciusteles.github.io/viniciustelescom/blog/categories/software-development/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescom/"/>
+  <updated>2013-04-28T10:52:03-03:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescom/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How important is freedom for software developers?]]></title>
+    <link href="http://viniciusteles.github.io/viniciustelescom/is-freedom-important-for-software-developers"/>
+    <updated>2013-01-18T00:00:00-02:00</updated>
+    <id>http://viniciusteles.github.io/viniciustelescom/is-freedom-important-for-software-developers</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.github.io/viniciustelescom/images/freedom.jpg" alt="How important is freedom for software developers?" /><span style="font-size: x-small;">Photo by&nbsp;<a href="http://www.flickr.com/photos/johndrake45/6201369535/">John Drake</a>&nbsp;(<a href="http://creativecommons.org/licenses/by-nd/2.0/deed.en">CC</a>).</span></p>
+
+
+<p>&nbsp;</p>
+
+
+<p>This conversation took place several times in the last few days:</p>
+
+
+<p>- So, how long are you staying in Istanbul.</p>
+
+
+<p>- Two month.</p>
+
+
+<p>- Wow, two months! Why? What are you doing in here? Work or something?</p>
+
+
+<p>- Actually, it's kind of complicated. We don't have a house anywhere in the world. We keep traveling from one place to the other. This time we chose to spend two months in Istanbul and we're mostly working remotely for our businesses in Brazil.</p>
+
+
+<p>- How cool is that? But what do you do?</p>
+
+
+<p>- I'm a software developer. I just need my notebook and an internet connection, so it doesn't matter where I am in the world.</p>
+
+
+<p>- Wow, what a privilege! I'm so jealous of you. Your profession is really great cause you can work from anywhere. That's amazing. And where do you go next?</p>
+
+
+<p>- I still don't know. We haven't decided yet.</p>
+
+
+<p>I have mixed feelings every time this conversation strikes. It's good to be reminded of the privilege I have as a software developer to work from anywhere in the world. It's not good to be reminded that many others have the same privilege but waste it somehow.&nbsp;</p>
+
+
+<p>There are many software developers out there. Just a few understand this privilege and actually take action on it. Why? Pay attention to the two stories below.</p>
+
+
+<p><strong><span style="font-size: medium;">Renato: the conventional guy</span></strong></p>
+
+
+<p>Let me describe a scenario that happens often in Brazil, cause it's the one I'm most familiarized with, but I suspect it isn't that different from other parts of the world.&nbsp;</p>
+
+
+<p>Renato is a guy who just got accepted at a good public university. He doesn't have to pay for his education and he'll be spending the next four years on a computer science course.</p>
+
+
+<p>At the end of the first year internship offers begin to arrive. Soon he's working part time on some company and earning a very reasonable salary, for a student. It doesn't take long for him to come up with a brilliant idea: buying a car. He saves enough for the down payment and purchases what might not be a Ferrari, but is a respectable machine.</p>
+
+
+<p>University is over and Renato is hired at one of the many companies desperately in need of a software developer. He's still in the beginning of his career, but now he has a very decent salary for someone at the bottom of the corporate ladder. An inevitable idea strikes him: I should probably buy my own place. After all, what else is more important than owning a house?</p>
+
+
+<p>He saves enough for the down payment and buys a house, which doesn't really goes well with the old car. So he switches to a brand new one using the previous as down payment. Now he has two debts that will eat most of his salary for many years to come. But that's fine, because his salary will increase soon enough. He'll work his way out of programming, cause programming is kind of an entry level activity, so he thinks. He wants to become some sort of technical leader, business analyst or eventually a manager.&nbsp;</p>
+
+
+<p>Life is better now, not only because of his shiny car and place, but also because he met the girl of his life. They date for a while and eventually decide to get married. Of course there has to be a wedding. Which means some serious expenses on the horizon.</p>
+
+
+<p>Now Renato is married. He takes care of the payments of the car, the house and some wedding services that are being paid in installments. The moment he and his wife comes back from the honey moon is celebrated among the family with pestering questions on a very sure and specific topic: when will the baby come? A couple needs a baby for sure. At least one for starters.</p>
+
+
+<p>They've been married for a couple of years now and his baby is about to born. No problem, cause at this point Renato is not a programmer anymore. He's making more money working on a managerial position. He fires emails, elaborates spreadsheets and files reports like no other. Great use of his time at the public university indeed.</p>
+
+
+<p>Renato still has a few more years to become thirty. And at this point he's anything but free. He's bright, well educated, makes a lot of money but can't afford to change his life in any direction because he has too many responsibilities and lots of strings attached.</p>
+
+
+<p><span style="font-size: medium;"><strong>Silvio: the crazy guy</strong></span></p>
+
+
+<p>Now let's take a look at one of Renato's classmates. His name is Silvio and he lives with his family when he starts the computer science course. Same as Renato, actually.</p>
+
+
+<p>In the first week at the university, Silvio, Renato and a few other colleagues are having lunch when they hear about <a href="http://www.casalpartiu.com/2013/01/couch-surfing.html">Couch Surfing</a> for the first time. Renato doesn't give it too much attention. Silvio, on the other hand, decides to investigate it further. He learns, among other things, that many people host foreign travelers in order to improve their English conversation. Actually he needs to improve his own English skills, so he checks with his parents if it would be ok to share the apartment's couch with some foreigners. Fortunately, he gets green light.</p>
+
+
+<p>Silvio receives his first guest from Toronto, Canada, few days later and realizes how poor his English skills are. But things go well. After a few days, he's more confident speaking in English with his guest. He feels like he's learned much more than in the six years he spent on a private English course.</p>
+
+
+<p>Life goes on and he hosts several other people, always struggling to balance the time he spends with the guests and the time he needs to study for the university. Good thing is that this arrangement proved to be so challenging that he had to learn fast to focus and prioritize. And since his English skills improved so fast in a few months, he manages to find an internship position even earlier than Renato. Six months earlier to be more specific.</p>
+
+
+<p>By the end of the first year at the university, Silvio has hosted dozens of people and most of them invited him to visit them in their hometown. &nbsp;Silvio makes a good money from the internship, but he saves most of it. Since he lives with his parents, he figures out that there's no hurry to spend the money, and it's always a good idea to have some cash saved for a rainy day.</p>
+
+
+<p>Jorge is an Argentinian guest that became very close to Silvio. He insists that Silvio come to visit him during his vacations from the university. The flight ticket is not that expensive. So Silvio figures out that he can buy it without hurting his savings too badly. And since he'll stay at Jorge's place, for free, he decides to go.&nbsp;</p>
+
+
+<p>He falls in love with Argentina and begin to learn Spanish with Jorge and his friends. One of them is also a software developer and he's involved in this cool open source software project. Silvio can't really program that well yet, but he is invited for the project and gets really enthusiastic about it.</p>
+
+
+<p>Back home, Silvio keeps studying, hosting travelers and working. But he has a better internship position now, thanks to the skills he's been developing while he works in the open source project, and his ability to both speak English fluently and some Spanish. He makes even more money than before, but he keeps saving, most of the time. He doesn't have a car, but he doesn't have a debt either.</p>
+
+
+<p>When the university comes to an end Silvio has already traveled to over thirty different countries. Most of the time visiting people he hosted before. He has lots of friends all over the globe. Not only because of <a href="http://www.casalpartiu.com/2013/01/couch-surfing.html">Couch Surfing</a>, but also thanks to the work he's been doing on some open source projects.</p>
+
+
+<p>In fact, precisely because of this work, he's now receiving offers from many companies and some of them pay really well. He chooses one and go for it. It's kind of far from his home, it will take him a lot of time commuting, but the work seems to be pretty cool.</p>
+
+
+<p>Few months latter he's really sick of the commuting. And at this point he feels like it's about time to move out of his parents house. So he finds this small apartment close to his work. He has a very good salary and already has substantial savings for a nineteen year old kid. Which is kind of funny if you think that he already traveled to so many countries. But always on the cheap, thanks to his friends.</p>
+
+
+<p>He rents the small flat and makes sure to have a couch to keep hosting travelers. Since it's just five minutes away from his work, there's no need to have a car. Sometimes he likes to travel by car to places not too far away, so he rents a car only for the necessary period, since this is much cheaper than actually owning a car.</p>
+
+
+<p>Two years later he get's this incredible job offer. But unfortunately in a place too far away, on the other side of the city. After some thought he realizes he can just move to another apartment, closer to the new workplace. Since he doesn't own his current apartment, he doesn't have any debt nor any kind of attachments to it, he's free to move out in no time.</p>
+
+
+<p>Few years goes by and he keeps traveling a lot and enjoying the <a href="http://www.casalpartiu.com/2013/01/travel-with-local-guide.html">help and hospitality of local people</a>, always using a bit of his savings and saving even more staying with one of the many friends spread over the globe. And because he's a software developer, a programmer that only gets better over time, he's really respected in his company. So his boss is very accommodating when he wants to travel for a longer period of time and asks to do his work remotely.</p>
+
+
+<p>One day he's traveling in South Korea when he meets Daniela, the girl of his life. She's a Brazilian fashion designer spending her vacations in South Korea and Japan, both paradises for fashion designers. Inspirations everywhere.</p>
+
+
+<p>It turns out that Daniela is not only Brazilian. She actually comes from the exact city where Silvio lives, but they've never met there. How crazy is life? They met for the first time thousands of miles away from their hometown. They eventually begin to date as soon as they come back to Brazil.</p>
+
+
+<p>A while later they decide to get married. But since both love to travel, they prefer to save money for that and actually avoid high expenses from a wedding. So they organized a nice wedding, but nothing too big nor too fancy. Most importantly, they don't want to have any kind of debt after the wedding.</p>
+
+
+<p>By the way, they still don't want to own a house and go into any kind of debt. So they rent another apartment, halfway to his and her job. It's not fancy nor big, but it's cozy and they like it.</p>
+
+
+<p>Sometimes they travel together for longer periods and she also manages to convince her boss to work remotely in these occasions, which after a while became more and more frequent. Until a moment when both convinced their respective bosses that it would be just more productive to work from home.</p>
+
+
+<p>They begin to work from home and spend much more time together. But now they ran out of excuses. When friends from other countries invite them for a visit, they can't say anymore that they won't be going because of work. Everyone knows they can work from anywhere. Poor guys, next thing you know they're traveling the world full time, cause it really doesn't matter where they are. They can still work and live a perfectly wonderful life hoping from country to country. They even decide to not have any house, anywhere in the world. And they move around sometimes using <a href="http://www.casalpartiu.com/2013/01/couch-surfing.html">Couch Surfing</a>, other times using <a href="https://www.airbnb.com/tell-a-friend?airef=283vz9905czz5">Airbnb to find affordable accommodation</a>.&nbsp;</p>
+
+
+<p>Seven years after the wedding they decide to have a kid. They think it's a good idea to come back to Brazil for a while and so they do it.&nbsp;</p>
+
+
+<p>Life is different now. They rent a big enough apartment and don't travel all the time anymore. Specially in the first months of the new born. But it doesn't take long for the baby to join the party and begin to travel with them. After all, there are friends all over the world longing to meet little Lucas.</p>
+
+
+<p>When it comes to buying a house, Silvio and Daniela didn't make up their minds yet. They don't even know where they'd like to spend the rest of their lives. But that's ok, by the time they decide it their savings will be more than enough to buy a house at sight with a good discount.&nbsp;</p>
+
+
+<p>In the meantime, they're free to do be wherever they want, whenever they want, and still get their job done. How cool is that?</p>
+
+
+<p><span style="font-size: medium;"><strong>Freedom to choose what to do with your own time</strong></span></p>
+
+
+<p>Money is quite obvious. Everybody works for it. But time is what really matters, cause you can always make more money, but you can never get back the time that past. So I'd claim that one of the most important things in life is freedom to use time however you'd like.</p>
+
+
+<p>There are many ways to achieve this freedom, specially if you are a software developer. You only need to pay attention at the decisions along the way. Also because life is too short to not pay attention.</p>
+
+
+<p>So, what's going to be your story? Conventional? Crazy? Start paying attention.</p>
+
+
+<p />
+<p>&nbsp;</p>
+
+]]></content>
+  </entry>
+  
+</feed>

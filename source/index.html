@@ -1,18 +1,26 @@
 ---
 layout: default
 ---
+<article class="post">
+<h2>About</h2>
 
-{% assign index = true %}
-{% for post in paginator.posts %}
-{% assign content = post.content %}
-    <article class="post">{% include article.html %}</article>
-{% endfor %}
-<nav id="pagenavi">
-    {% if paginator.previous_page %}
-        <a href="{{paginator.previous_page}}" class="prev">Prev</a>
-    {% endif %}
-    {% if paginator.next_page %}
-        <a href="{{paginator.next_page}}" class="next">Next</a>
-    {% endif %}
-    <div class="center"><a href="{{ root_url }}/blog/archives">Blog Archives</a></div>
-</nav>
+<p>I&#8217;m a Brazilian entrepreneur and <a href="https://github.com/viniciusteles">software craftsman</a>. I founded my company, <a href="http://improveit.com.br">Improve It</a>, in 2001. It&#8217;s been an <a href="http://en.wikipedia.org/wiki/Agile_software_development">Agile Software Development</a> consulting firm for many years and I used to work as a coach and a mentor for <a href="http://en.wikipedia.org/wiki/Extreme_Programming">Extreme Programming</a> teams. I wrote a <a href="http://improveit.com.br/xp/livroxp">book</a> about <a href="http://en.wikipedia.org/wiki/Extreme_Programming">Extreme Programming</a> that was published in Brazil in 2004.</p>
+
+<p><a href="http://improveit.com.br">My company</a> launched it&#8217;s first commercial product, <a href="http://beonthe.net">Be on the Net</a>, in 2008. From them on, the company as well as myself became fully dedicated to the support and the expansion of <a href="http://beonthe.net">Be on the Net</a>.</p>
+
+<p>I attended Computer Science <a href="http://www.dcc.ufrj.br/">undergraduation</a> and <a href="http://www.ppgi.ufrj.br/">graduation</a> courses at <a href="http://www.ufrj.br/">Federal University of Rio de Janeiro</a>.</p>
+
+<h2>Useful links</h2>
+
+<p>Company: <a href="http://improveit.com.br">Improve It</a> <em>(portuguese only)</em>
+Product: <a href="http://beonthe.net">Be on the Net</a> <em>(portuguese only)</em>
+Book: <a href="http://improveit.com.br/xp/livroxp">Extreme Programming</a> <em>(portuguese only)</em>
+Blog: <a href="http://blog.viniciusteles.com">Vinicius Teles&#8217; thoughts</a>
+Github: <a href="https://github.com/viniciusteles">viniciusteles</a></p>
+
+<h2>Contact</h2>
+
+<p>Email: info@viniciusteles.com</p>
+
+</article>
+

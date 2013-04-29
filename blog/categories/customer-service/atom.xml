@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: customer service | Vinícius Teles]]></title>
-  <link href="http://blog.viniciusteles.com/blog/categories/customer-service/atom.xml" rel="self"/>
-  <link href="http://blog.viniciusteles.com/"/>
-  <updated>2013-04-28T20:05:40-03:00</updated>
-  <id>http://blog.viniciusteles.com/</id>
+  <link href="http://viniciusteles.com/blog/categories/customer-service/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.com/"/>
+  <updated>2013-04-28T23:33:48-03:00</updated>
+  <id>http://viniciusteles.com/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Why services are so bad in Brazil and why we need the start ups]]></title>
-    <link href="http://blog.viniciusteles.com/why-services-are-so-bad-in-brazil"/>
+    <link href="http://viniciusteles.com/why-services-are-so-bad-in-brazil"/>
     <updated>2013-01-31T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/why-services-are-so-bad-in-brazil</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.viniciusteles.com/images/fu.jpg" alt="Why services are so bad in Brazil and why we need the start ups" /></p>
+    <id>http://viniciusteles.com/why-services-are-so-bad-in-brazil</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com/images/fu.jpg" alt="Why services are so bad in Brazil and why we need the start ups" /></p>
 
 
 <p><span style="font-size: x-small;">CC by&nbsp;<a href="http://www.flickr.com/photos/thoth-god/3680655443/">Thoth, God of Knowledge</a>.</span></p>

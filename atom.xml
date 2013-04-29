@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Vinícius Teles]]></title>
-  <link href="http://blog.viniciusteles.com/atom.xml" rel="self"/>
-  <link href="http://blog.viniciusteles.com/"/>
-  <updated>2013-04-28T20:05:40-03:00</updated>
-  <id>http://blog.viniciusteles.com/</id>
+  <link href="http://viniciusteles.com/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.com/"/>
+  <updated>2013-04-28T23:33:48-03:00</updated>
+  <id>http://viniciusteles.com/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[The ultimate safety net]]></title>
-    <link href="http://blog.viniciusteles.com/the-ultimate-safety-net"/>
+    <link href="http://viniciusteles.com/the-ultimate-safety-net"/>
     <updated>2013-03-01T00:00:00-03:00</updated>
-    <id>http://blog.viniciusteles.com/the-ultimate-safety-net</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.viniciusteles.com/images/6311895493_7b9317b6c4_z.jpg" alt="The ultimate safety net" />Photo from <a href="http://www.flickr.com/photos/rainchurch/6311895493/">Flickr</a> (CC).</p>
+    <id>http://viniciusteles.com/the-ultimate-safety-net</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com/images/6311895493_7b9317b6c4_z.jpg" alt="The ultimate safety net" />Photo from <a href="http://www.flickr.com/photos/rainchurch/6311895493/">Flickr</a> (CC).</p>
 <p>Everybody wants to have a safety net, right? That&#8217;s why we try to save some money for the rainy days. But are things like money, property, stocks or the likes real safety nets? I mean, what&#8217;s the ultimate safety net after all?</p>
 <p>This subject is important to me because I value freedom. Fortunately, I&#8217;m pretty much free to do whatever I want currently. That&#8217;s because I have a steady income and enough resources to support my life needs and I don&#8217;t have a job that forces me to be confined to an office during arbitrary hours of my day.</p>
 <p>As much as I like it this way, truth is that it could all change suddenly. The business might get into trouble, as much as the market can change and turn things in the wrong direction. What could be done, then?&nbsp;</p>
@@ -45,10 +45,10 @@
   
   <entry>
     <title type="html"><![CDATA[Startup problems]]></title>
-    <link href="http://blog.viniciusteles.com/startup-problems"/>
+    <link href="http://viniciusteles.com/startup-problems"/>
     <updated>2013-02-20T00:00:00-03:00</updated>
-    <id>http://blog.viniciusteles.com/startup-problems</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.viniciusteles.com/images/527304360_2852ed007b_z.jpeg" alt="Startup problems" /><span style="font-size: x-small;">Photo:&nbsp;<a href="http://www.flickr.com/photos/gi/527304360/">Gisela Giardino</a> (CC)</span></p>
+    <id>http://viniciusteles.com/startup-problems</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com/images/527304360_2852ed007b_z.jpeg" alt="Startup problems" /><span style="font-size: x-small;">Photo:&nbsp;<a href="http://www.flickr.com/photos/gi/527304360/">Gisela Giardino</a> (CC)</span></p>
 <p>&nbsp;</p>
 <p>What makes it hard to create a successful startup? In my opinion, skills or lack thereof.</p>
 <p>Since I&#8217;m a software developer, I created a software company and eventually a <a href="http://beonthe.net">product</a>. But, being a software guy makes me ready to run a software company? Well, not really.</p>
@@ -67,10 +67,10 @@
   
   <entry>
     <title type="html"><![CDATA[Why services are so bad in Brazil and why we need the start ups]]></title>
-    <link href="http://blog.viniciusteles.com/why-services-are-so-bad-in-brazil"/>
+    <link href="http://viniciusteles.com/why-services-are-so-bad-in-brazil"/>
     <updated>2013-01-31T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/why-services-are-so-bad-in-brazil</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.viniciusteles.com/images/fu.jpg" alt="Why services are so bad in Brazil and why we need the start ups" /></p>
+    <id>http://viniciusteles.com/why-services-are-so-bad-in-brazil</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com/images/fu.jpg" alt="Why services are so bad in Brazil and why we need the start ups" /></p>
 <p><span style="font-size: x-small;">CC by&nbsp;<a href="http://www.flickr.com/photos/thoth-god/3680655443/">Thoth, God of Knowledge</a>.</span></p>
 <p>&nbsp;</p>
 <p>I&#8217;ve always been passionate about entrepreneurship. That&#8217;s why I became very enthusiastic about the growing interest for start ups in Brazil. But something began to bother me about it. I couldn&#8217;t fully understand the mixed feelings until recently.</p>
@@ -118,10 +118,10 @@
   
   <entry>
     <title type="html"><![CDATA[How important is freedom for software developers?]]></title>
-    <link href="http://blog.viniciusteles.com/is-freedom-important-for-software-developers"/>
+    <link href="http://viniciusteles.com/is-freedom-important-for-software-developers"/>
     <updated>2013-01-18T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/is-freedom-important-for-software-developers</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.viniciusteles.com/images/freedom.jpg" alt="How important is freedom for software developers?" /><span style="font-size: x-small;">Photo by&nbsp;<a href="http://www.flickr.com/photos/johndrake45/6201369535/">John Drake</a>&nbsp;(<a href="http://creativecommons.org/licenses/by-nd/2.0/deed.en">CC</a>).</span></p>
+    <id>http://viniciusteles.com/is-freedom-important-for-software-developers</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com/images/freedom.jpg" alt="How important is freedom for software developers?" /><span style="font-size: x-small;">Photo by&nbsp;<a href="http://www.flickr.com/photos/johndrake45/6201369535/">John Drake</a>&nbsp;(<a href="http://creativecommons.org/licenses/by-nd/2.0/deed.en">CC</a>).</span></p>
 <p>&nbsp;</p>
 <p>This conversation took place several times in the last few days:</p>
 <p>- So, how long are you staying in Istanbul.</p>
@@ -180,9 +180,9 @@
   
   <entry>
     <title type="html"><![CDATA[Couch Surfing]]></title>
-    <link href="http://blog.viniciusteles.com/couch-surfing"/>
+    <link href="http://viniciusteles.com/couch-surfing"/>
     <updated>2013-01-07T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/couch-surfing</id>
+    <id>http://viniciusteles.com/couch-surfing</id>
     <content type="html"><![CDATA[<p>You know that moment when you realize how stupid you&#8217;ve been? That&#8217;s the feeling I&#8217;ve had for the last two days. Let me explain.</p>
 <p>We&#8217;ve been traveling around the world for more than two years now and I&#8217;ve always complained that I wanted an easy way to meet people wherever we go. Because meeting locals or other fellow travelers is always the best part of the journey. But how can someone arrive in a new city and connect with people?</p>
 <p>It&#8217;s actually pretty easy and the solution has always been on the tip of my fingers. I just haven&#8217;t tried it before, until yesterday. And I guess many of you probably know that I&#8217;m talking about <a href="https://www.couchsurfing.org">Couch Surfing</a>.</p>
@@ -199,7 +199,7 @@
 <p>I deeply regret all the time I wasted not trying to use <a href="https://www.couchsurfing.org">Couch Surfing</a>. But I&#8217;m delighted that we&#8217;ve finally began to use it. And Istanbul seems to be just the perfect place, since people really use it a lot and it works incredbly well.</p>
 <p>You can check out <a href="http://www.couchsurfing.org/people/vinicius.m.teles">my profile</a> on <a href="https://www.couchsurfing.org">Couch Surfing</a> at &nbsp;<a href="http://www.couchsurfing.org/people/vinicius.m.teles">http://www.couchsurfing.org/people/vinicius.m.teles</a>.</p>
 <p>&nbsp;</p>
-<p><img src="http://blog.viniciusteles.com/images/cs-meetup.jpg" alt="Couch Surfing" /></p>
+<p><img src="http://viniciusteles.com/images/cs-meetup.jpg" alt="Couch Surfing" /></p>
 <p />
 <p>&nbsp;</p>
 ]]></content>
@@ -207,9 +207,9 @@
   
   <entry>
     <title type="html"><![CDATA[Digital nomad: effects on productivity]]></title>
-    <link href="http://blog.viniciusteles.com/digital-nomad-effects-on-productivity"/>
+    <link href="http://viniciusteles.com/digital-nomad-effects-on-productivity"/>
     <updated>2012-11-22T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/digital-nomad-effects-on-productivity</id>
+    <id>http://viniciusteles.com/digital-nomad-effects-on-productivity</id>
     <content type="html"><![CDATA[<p><a href="http://patriciafigueira.com.br">Patricia</a>&nbsp;and I became <a href="http://en.wikipedia.org/wiki/Digital_nomad">digital nomads</a> a couple of years ago. We&#8217;ve been to dozens of cities and countries along the way. But it&#8217;s not only leisure. As a matter of fact, we&#8217;re working most of the time, regardless of our current location.</p>
 <p />
 <div>Working as we travel is quite challenging. But only recently I realized that it&#8217;s essentially as challenging as before. Not worse. Nor better. Basically the same problem. Kind of counterintuitive, right?</div>
@@ -234,18 +234,18 @@
   
   <entry>
     <title type="html"><![CDATA[Malaysia]]></title>
-    <link href="http://blog.viniciusteles.com/malaysia"/>
+    <link href="http://viniciusteles.com/malaysia"/>
     <updated>2012-04-03T00:00:00-03:00</updated>
-    <id>http://blog.viniciusteles.com/malaysia</id>
+    <id>http://viniciusteles.com/malaysia</id>
     <content type="html"><![CDATA[<p>Pati and I spent the last week in Malaysia. I have to confess that this wasn&#8217;t exactly the plan. The idea was to spend a couple of days in Kuala Lumpur and them move on to Singapore. But unfortunately we had to cancel our trip to Singapore and spent the whole week in Kuala Lumpur. <p /> Malaysia is one of those places that doesn&#8217;t receive enough love from travelers. People often spend a short time there if they go there at all. We didn&#8217;t plan to spend a lot of time there either but we were kind of forced to stay longer. We didn&#8217;t do any tourism at all and we spent most of our time in the hotel, working on our notebooks. So I can&#8217;t say anything about Kuala Lumpur from a touristic perspective. But I &#8220;lived&#8221; a normal life there for a week and I had a chance to meet several Malaysians in the process. <br />After that, I have to say that people were generally very friendly and I enjoyed my stay in KL. The city has the traffic problems of the big cities, but it felt much less so than other places we visited before in Asia. Maybe that&#8217;s because there&#8217;s just less people in KL than other big cities we visited previously in Asia. <br />Again, I don&#8217;t know how interesting KL is for tourism. But I found it to be quite convenient for someone who needs to work remotely. It&#8217;s not hard to find good and affordable accommodation and many services that I used were efficient. <br />All in all it was a different week in our trip, but I wouldn&#8217;t hesitate to come back in the future if I were just looking for a convenient location to spend some time working remotely. <p /> PS: now we&#8217;re in Honk Kong and we&#8217;ll be visiting many other interesting places soon, besides Hong Kong itself which is a very impressive city.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Cities I visited]]></title>
-    <link href="http://blog.viniciusteles.com/cities-i-visited"/>
+    <link href="http://viniciusteles.com/cities-i-visited"/>
     <updated>2012-03-29T00:00:00-03:00</updated>
-    <id>http://blog.viniciusteles.com/cities-i-visited</id>
+    <id>http://viniciusteles.com/cities-i-visited</id>
     <content type="html"><![CDATA[<div style="font: 14px arial, sans; color: #2b2b2b;">A friend told me about this app on Facebook to keep track of the cities I visited. To me, it&#8217;s not only fun to do it, but also useful. Specially because now I realize how much I still need to travel to cover a bit more of the planet. Nice trips to you!</div>
 <p />
 <div style="font: 14px arial, sans; color: #2b2b2b;"><img src="http://www.tripadvisor.com/CommunityMapImage?id=DDE12350E779464E70EBDE6933A3174D&amp;type=GUID&amp;size=LARGE" alt="" /> <ol>
@@ -261,9 +261,9 @@
   
   <entry>
     <title type="html"><![CDATA[Autonomy is so underrated]]></title>
-    <link href="http://blog.viniciusteles.com/autonomy-is-so-underrated"/>
+    <link href="http://viniciusteles.com/autonomy-is-so-underrated"/>
     <updated>2012-03-29T00:00:00-03:00</updated>
-    <id>http://blog.viniciusteles.com/autonomy-is-so-underrated</id>
+    <id>http://viniciusteles.com/autonomy-is-so-underrated</id>
     <content type="html"><![CDATA[<p>Choose your goals wisely because you may actually get what you want! You better aim at something meaningful. <p /> Most people seem to want at least one thing in common: more money. The thinking is that if you have more money, than you can have more stuff and do more stuff. And this somehow translates into being happier. <p /> Unfortunately, that doesn&#8217;t seem to be the case. Money is a very important tool and as such, having it can be quite helpful. So it makes sense to try to have at least enough money to do what you want. Having more won&#8217;t hurt, though. On the other hand, there&#8217;s only so much you can do if you can&#8217;t control your own time. <br />As it turns out, time and autonomy to use your time as you wish is far more meaningful and life changing than only having money. Having more and more money but no time and autonomy to use it is not particularly meaningful and it&#8217;s a waste in itself. <p /> Pati and I travel around the world permanently not because we have a lot of money. Actually, we probably earn less than most people we know with equivalent qualifications. We do travel because we have autonomy over our time and we use whatever money we have carefully. <p /> It took us a while and some serious focus to achieve this level of autonomy. But most of all, it required an understanding of what we should focus on: autonomy and freedom. Unfortunately, they&#8217;re so underrated.</p>
 <p><strong>UPDATE</strong>: to my friends in the technology field I must add that software developers are probably some of the most priviledged people when it comes to achieving a great deal of autonomy, as long as they aim at it, of course. Fortunately, one can write software wherever and whenever they want to. A humble taxi driver reminded me of that a few days ago, here in Kuala Lumpur. ;-)</p>
 ]]></content>
@@ -271,39 +271,39 @@
   
   <entry>
     <title type="html"><![CDATA[Back to writing]]></title>
-    <link href="http://blog.viniciusteles.com/back-to-writing"/>
+    <link href="http://viniciusteles.com/back-to-writing"/>
     <updated>2012-03-28T00:00:00-03:00</updated>
-    <id>http://blog.viniciusteles.com/back-to-writing</id>
+    <id>http://viniciusteles.com/back-to-writing</id>
     <content type="html"><![CDATA[<p>It&#8217;s been a while since the last post. That&#8217;s because I made a mistake. I wrote the first articles with a lot of care and illustrated them with some amazing pictures from Pati. I can do this once in a while, but I just can&#8217;t do this every day. It would be just too much work. <p /> So I&#8217;m just writing today to take the pressure off. From now on I&#8217;ll make a daily effort to write a little bit about our journey. Just enough to update you. I think it&#8217;s going to be better to have several small posts over time than a few elaborated ones that are seldom published. <p /> Since my last writing, when we were in Australia, we visited several places. We went to New Zealand, Japan, India and Thailand. At this moment we&#8217;re in Malaysia. Both Japan and Thailand are places that we plan to come back often from now on. We loved them!</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Why live in a country when you can live in a planet?]]></title>
-    <link href="http://blog.viniciusteles.com/why-live-in-a-country-when-you-can-live-in-a"/>
+    <link href="http://viniciusteles.com/why-live-in-a-country-when-you-can-live-in-a"/>
     <updated>2011-12-29T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/why-live-in-a-country-when-you-can-live-in-a</id>
+    <id>http://viniciusteles.com/why-live-in-a-country-when-you-can-live-in-a</id>
     <content type="html"><![CDATA[<p>Exactly one year ago&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>&nbsp;and I left Brazil to begin a new life in another country: our beloved Argentina. At least that was the plan, but what actually happened was something else that we could never anticipate.</p>
 <div><br />
-<div><img src="http://blog.viniciusteles.com/images/DSC_0483.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/DSC_0483.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <p />
 <div><strong>The idea</strong></div>
 <p />
 <div>In 2009, after a lovely trip to Buenos Aires I had this &#8220;crazy&#8221; idea: what if we moved to Buenos Aires? I suggested that to&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>&nbsp;and she happily agreed that this would be really cool. The only problem is that this couldn&#8217;t happen any time soon.</div>
 <p />
 <div>You see,&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>&nbsp;is a renowned&nbsp;<a href="http://www.patriciafigueira.com.br">wedding photographer in Brazil</a>. So, although it was still 2009, she was already heavily booked for 2010. Meaning she would be taking pictures of weddings almost every weekend during 2010. So, the only thing we could do was to push the move to the end of 2010. And so we did it.</div>
-<div><img src="http://blog.viniciusteles.com/images/blog_madrid_0020.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC0103.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC0061.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/blog_madrid_0020.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC0103.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC0061.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <p />
 <div><strong>Experiments</strong></div>
 <p />
 <div>Fortunately, by that time, she still had some room in the first months of the year. So we managed to squeeze a trip around the USA in the beginning of 2010. &nbsp;That gave us an opportunity to experiment with remote working.&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>&nbsp;works with Karol and I work with Leandro. They would both stay in Brazil during this USA trip and we&#8217;d be forced to work with them remotely.</div>
 <p />
 <div>Fortunately, everything went well and we found the confidence to go on with our plans. So&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>&nbsp;worked her schedule of 2011 in a way that would allow less weddings and more time between each of them. This way, we&#8217;d be able to move to Argentina but still come back to Rio from time to time, so that she could take picture of weddings there. In my case, since my work could be accomplished remotely, I&#8217;d be just fine anywhere as long as there would be internet connection available.</div>
-<div><img src="http://blog.viniciusteles.com/images/_DSC7657.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/panorama1.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/panorama2.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/_DSC7657.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/panorama1.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/panorama2.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <div><strong>The preparation</strong></div>
 <p />
 <div>The last months of 2010 were just crazy as we tried to prepare for the move. The major effort was to sell everything we had and clear the apartment. This proved to be a much harder endeavor than we could possibly anticipate. A kind of story that deserves many posts apart.</div>
-<div><img src="http://blog.viniciusteles.com/images/DSC_2755.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2750.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/DSC_2755.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2750.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <p />
 <div><strong>The beginning</strong></div>
 <p />
@@ -312,8 +312,8 @@
 <div>Fortunately, after asking in different hotels with no luck we managed to find a nice place to stay. And that&#8217;s how we began our two months stay in this incredibly beautiful place, in Patagonia. What an amazing summer! Oh Lord, how I miss this place!</div>
 <p />
 <div>
-<p><img src="http://blog.viniciusteles.com/images/_DSC8708.jpg" alt="Why live in a country when you can live in a planet?" /></p>
-<p><img src="http://blog.viniciusteles.com/images/panorama3.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC8423.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC8835.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC8635.jpg" alt="Why live in a country when you can live in a planet?" /></p>
+<p><img src="http://viniciusteles.com/images/_DSC8708.jpg" alt="Why live in a country when you can live in a planet?" /></p>
+<p><img src="http://viniciusteles.com/images/panorama3.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC8423.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC8835.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC8635.jpg" alt="Why live in a country when you can live in a planet?" /></p>
 </div>
 <p />
 <div><strong>But that wasn&#8217;t enough</strong></div>
@@ -323,17 +323,17 @@
 <div>I confess that when we left Brazil this was something that I didn&#8217;t think about. But then, reading the books, I realized that we had all of the necessary pre-requisites. Being a person that loves traveling myself, this obviously appealed to me. Next thing you know, I was asking&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>: what if we traveled all the time instead of just living in Argentina? I mean, we both love Argentina. But we could also live in other places. Fortunately, she once more agreed with my crazy idea. :-)</div>
 <p />
 <div>By the way, the books in question are&nbsp;<a href="http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/0812992180/ref=sr_1_1?ie=UTF8&amp;qid=1325243644&amp;sr=8-1">Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</a>&nbsp;and&nbsp;<a href="http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?ie=UTF8&amp;qid=1325243661&amp;sr=8-1">The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want,&nbsp;and Change the World</a>. The later was the one I liked the most, as a matter of fact, although it&#8217;s not strictly about traveling. Chris and I have many similar points of view on how we should live our lives.</div>
-<div><img src="http://blog.viniciusteles.com/images/DSC_1768pb.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2196.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_3199.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/DSC_1768pb.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2196.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_3199.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <div><strong>Beyond the original plan</strong></div>
 <p />
 <div>To test this idea, we booked a trip to Europe to take place by the end of our stay in Bariloche. Hence, in March. There we visited Spain, the South of France, Monaco and Italy. Always balancing some work, some level of sightseeing and a lot of delicious food tasting, which one can tell easily from my current shape. Oh, I&#8217;m in shape! Round is a shape, isn&#8217;t it? :D</div>
-<div><img src="http://blog.viniciusteles.com/images/_DSC8420.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_0996.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_1178.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2729.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC8451.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/_DSC8420.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_0996.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_1178.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2729.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC8451.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <div>With this great start, we later spent some well anticipated time in Buenos Aires, followed by really cool travels to Colombia, Venezuela, Cura&ccedil;ao, Uruguay, Chile and more recently Australia and New Zealand where we are now. In total, we&#8217;ve been to twelve countries in three different continents, and also to many beautiful parts of Brazil. Specially Jericoacoara and Ta&iacute;ba. And we still managed to keep up with the work. Not bad at all.&nbsp;</div>
 <p />
 <div>And, before I forget, let me tell you something. Of course we liked each place we visited. But I must say that South America is just so incredibly cool. It was so much fun to visit our neighbors. My only regret is that it took me so long to do it. Man, what a bunch of amazing countries and what a lovely people. Can&#8217;t wait to come back!</div>
 <p />
 <div>In the process, we made lots of new friends, learned a ton about each place we&#8217;ve been to and had so many amazing experiences that would easily fill a book. And most importantly,&nbsp;<a href="http://www.patriciafigueira.com.br">Patricia</a>&nbsp;took so many breathtaking pictures that it was really hard to choose just a few to illustrate this post.</div>
-<div><img src="http://blog.viniciusteles.com/images/DSC_3323.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_3089.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_3074.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_3067.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2795.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2356.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2684.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_1744.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_1804.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/DSC_2206.jpg" alt="Why live in a country when you can live in a planet?" /></div>
+<div><img src="http://viniciusteles.com/images/DSC_3323.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_3089.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_3074.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_3067.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2795.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2356.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2684.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_1744.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_1804.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/DSC_2206.jpg" alt="Why live in a country when you can live in a planet?" /></div>
 <div><strong>Conclusion</strong></div>
 <p />
 <div>One year later the only thing I can say is that we couldn&#8217;t have ask for more. This is just so much better that we could ever dream of. &nbsp;And the best part is that it&#8217;s only the beginning. We don&#8217;t plan to settle anytime soon.&nbsp;</div>
@@ -345,20 +345,20 @@
 <div>Wish you all an outstanding 2012. May you have some awesome journeys too!</div>
 </div>
 <p />
-<p><img src="http://blog.viniciusteles.com/images/_DSC6103.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC6059.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://blog.viniciusteles.com/images/_DSC9988.jpg" alt="Why live in a country when you can live in a planet?" /></p>
+<p><img src="http://viniciusteles.com/images/_DSC6103.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC6059.jpg" alt="Why live in a country when you can live in a planet?" /><img src="http://viniciusteles.com/images/_DSC9988.jpg" alt="Why live in a country when you can live in a planet?" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Our first week in Sydney, Australia]]></title>
-    <link href="http://blog.viniciusteles.com/our-first-week-in-sydney-australia"/>
+    <link href="http://viniciusteles.com/our-first-week-in-sydney-australia"/>
     <updated>2011-12-11T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/our-first-week-in-sydney-australia</id>
+    <id>http://viniciusteles.com/our-first-week-in-sydney-australia</id>
     <content type="html"><![CDATA[<div>We&#8217;ve been in Sydney for almost a week now. So it&#8217;s time to share a few more impressions.</div>
 <p />
 <div>I was supposed to say that Sydney is awesome and incredible. Well, it certainly is a nice and beautiful place, but maybe for us it&#8217;s just a bit too similar to other parts of the world we&#8217;ve been to.</div>
 <p />
-<div><img src="http://blog.viniciusteles.com/images/sydney_panorama.jpg" alt="Our first week in Sydney, Australia" /></div>
+<div><img src="http://viniciusteles.com/images/sydney_panorama.jpg" alt="Our first week in Sydney, Australia" /></div>
 <p />
 <div><strong>UK and the USA</strong></div>
 <p />
@@ -426,16 +426,16 @@
 <p />
 <div>Cheers, mate.</div>
 <p />
-<div><img src="http://blog.viniciusteles.com/images/operahouse_640.jpg" alt="Our first week in Sydney, Australia" /></div>
+<div><img src="http://viniciusteles.com/images/operahouse_640.jpg" alt="Our first week in Sydney, Australia" /></div>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[First impressions of Sydney, Australia]]></title>
-    <link href="http://blog.viniciusteles.com/first-impressions-of-sydney-australia"/>
+    <link href="http://viniciusteles.com/first-impressions-of-sydney-australia"/>
     <updated>2011-12-07T00:00:00-02:00</updated>
-    <id>http://blog.viniciusteles.com/first-impressions-of-sydney-australia</id>
-    <content type="html"><![CDATA[<p><a href="http://patriciafigueira.com.br">Patricia</a>&nbsp;and I arrived in Sydney on Tuesday, 6th of December 2011.&nbsp;So let me share some of our first impressions.<p /><img src="http://blog.viniciusteles.com/images/vinicius-teles-in-sydney.jpg" alt="First impressions of Sydney, Australia" /><p /><strong>Flight</strong><br />&nbsp;<br />We took a Qantas non-stop flight in Buenos Aires, that lasted 14 hours and was much less painful than anticipated.&nbsp;The airplane flies over the shores of&nbsp;<a href="http://en.wikipedia.org/wiki/Antarctica">Antarctica</a>&nbsp;for quite a while. So we had the chance to see images of huge ice blocks floating on the ocean. It&#8217;s a very interesting view. But most of the time there was just that bright white all around us.</p>
+    <id>http://viniciusteles.com/first-impressions-of-sydney-australia</id>
+    <content type="html"><![CDATA[<p><a href="http://patriciafigueira.com.br">Patricia</a>&nbsp;and I arrived in Sydney on Tuesday, 6th of December 2011.&nbsp;So let me share some of our first impressions.<p /><img src="http://viniciusteles.com/images/vinicius-teles-in-sydney.jpg" alt="First impressions of Sydney, Australia" /><p /><strong>Flight</strong><br />&nbsp;<br />We took a Qantas non-stop flight in Buenos Aires, that lasted 14 hours and was much less painful than anticipated.&nbsp;The airplane flies over the shores of&nbsp;<a href="http://en.wikipedia.org/wiki/Antarctica">Antarctica</a>&nbsp;for quite a while. So we had the chance to see images of huge ice blocks floating on the ocean. It&#8217;s a very interesting view. But most of the time there was just that bright white all around us.</p>
 <p />
 <div>Before the flight I chose a good seat for us with the help of&nbsp;<a href="http://www.seatguru.com/">SeatGuru</a>&nbsp;and I stocked a good selection of Argentinian movies in my iPad. So, in the end, the flight was actually comfortable and entertaining.&nbsp;<p />&nbsp;The plane left from Buenos Aires at around 1:30 PM (Buenos Aires local time) and arrived in Sydney at 5:30 PM (Sydney local time) on the following day. So it was daytime during the whole flight. &nbsp;The good news is that&nbsp;we arrive in Sydney in the beginning of the night. And since we&#8217;re tired, the natural thing to do is to sleep. So, we go to bed at the right time, in the new time zone. Which helps us adjust and avoid jet leg. So far, we hadn&#8217;t&nbsp;felt any jet leg at all.
 <div>

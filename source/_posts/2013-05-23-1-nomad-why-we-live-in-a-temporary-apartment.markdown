@@ -18,6 +18,7 @@ This podcast isn't on iTunes yet, but hopefully it will be in the near future. F
 In this first official episode I introduce myself briefly and talk about our decision to not have a house anywhere in the world. Since it's kind of a controversial choice, I invite you to listen and think about this theme. 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F93479042"></iframe>
+[Play it directly on SoundCloud][sc] if you prefer.
 
 In this episode I mentioned a commencement speech by [David Foster Wallace][1] called **This is water**. I highly recommend you to listen to it below. It's absolutely great!
 
@@ -25,5 +26,6 @@ In this episode I mentioned a commencement speech by [David Foster Wallace][1] c
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/EEjVnB7AeBQ" frameborder="0" allowfullscreen></iframe>
 
-[1]: http://en.wikipedia.org/wiki/David_Foster_Wallace
+[1]:   http://en.wikipedia.org/wiki/David_Foster_Wallace
 [rss]: http://feeds.feedburner.com/ViniciusTelesEN
+[sc]:  https://soundcloud.com/vinicius-teles/nomad-temporary-apartment

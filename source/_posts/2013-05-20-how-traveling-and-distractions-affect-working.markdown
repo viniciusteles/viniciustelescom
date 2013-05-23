@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /how-traveling-and-distractions-affect-working
 title: How traveling and distractions affect working
 description: Traveling affects my work to some extent and that's something that I discuss in this episode.
 date: 2013-05-20 23:18

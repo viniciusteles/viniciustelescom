@@ -19,7 +19,7 @@ In this first official episode I introduce myself briefly and talk about our dec
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F93479042"></iframe>
 
-In this episode I mentioned a commencement speech by [David Foster Wallace][1] called **This is water**. I highly recommend you to listen to it below. It's absolutely great!
+In this episode I mentioned a commencement speech by [David Foster Wallace][1] called **This is water**. I heard about it in [this episode of the TropicalMBA][t]. I highly recommend you to listen to it below. It's absolutely great!
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/vET9cvlGJQw" frameborder="0" allowfullscreen></iframe>
 
@@ -27,3 +27,4 @@ In this episode I mentioned a commencement speech by [David Foster Wallace][1] c
 
 [1]: http://en.wikipedia.org/wiki/David_Foster_Wallace
 [rss]: http://feeds.feedburner.com/ViniciusTelesEN
+[t]: http://www.tropicalmba.com/david-foster-wallace-this-is-water

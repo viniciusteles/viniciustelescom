@@ -38,7 +38,7 @@ I appreciate the opportunity to immerse myself in other cultures and learning la
 [w]: http://worktravelandstudyabroad.tv/
 [Improve It]: http://improveit.com.br
 [Be on the Net]: http://beonthe.net
-[da]: http://blog.viniciusteles.com
+[da]: http://viniciusteles.com/blog
 [f]: http://www.flickr.com/photos/viniciusteles/sets/
 [b]: http://improveit.com.br/xp/livroxp
 [a]: http://en.wikipedia.org/wiki/Agile_software_development

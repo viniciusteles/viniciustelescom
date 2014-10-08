@@ -5,6 +5,10 @@ layout: page
 
 I'm a Brazilian entrepreneur and [software craftsman][sd]. I founded my company, [Improve It][], in 2001. It's been an [Agile Software Development][a] consulting firm for many years and I used to work as a coach and a mentor for [Extreme Programming][XP] teams. I wrote a [book][b] about [Extreme Programming][XP] that was published in Brazil in 2004.
 
+<center>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/kzoKsm2bxpQ" frameborder="0" allowfullscreen></iframe>
+</center>
+
 [My company][Improve It] launched it's first commercial product, [Be on the Net][], in 2008. From them on, the company as well as myself became fully dedicated to the support and the expansion of [Be on the Net][].
 
 I attended Computer Science [undergraduation][u] and [graduation][g] courses at [Federal University of Rio de Janeiro][UFRJ].

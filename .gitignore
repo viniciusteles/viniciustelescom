@@ -4,6 +4,7 @@
 .gist-cache
 .pygments-cache
 .rbenv-version
+._*
 _deploy
 public
 sass.old

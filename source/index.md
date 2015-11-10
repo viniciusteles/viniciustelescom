@@ -9,7 +9,7 @@ I'm a Brazilian entrepreneur and [software craftsman][sd]. I founded my company,
 <iframe width="640" height="360" src="http://www.youtube.com/embed/kzoKsm2bxpQ" frameborder="0" allowfullscreen></iframe>
 </center>
 
-[My company][Improve It] launched it's first commercial product, [Be on the Net][], in 2008. From them on, the company as well as myself became fully dedicated to the support and the expansion of [Be on the Net][].
+[My company][Improve It] launched it's first commercial product, [Be on the Net][], in 2008. From them on, the company as well as myself became fully dedicated to the support and the expansion of [Be on the Net][]. Nowadays I spend most of my time working on [Noiva Inteligente][ani], my most recent project.
 
 I attended Computer Science [undergraduation][u] and [graduation][g] courses at [Federal University of Rio de Janeiro][UFRJ].
 
@@ -62,3 +62,4 @@ I appreciate the opportunity to immerse myself in other cultures and learning la
 [pati]: http://patriciafigueira.com.br
 [atv]: http://abrirempresa.tv
 [vpo]: http://viniciusteles.com.br
+[ani]: https://noivainteligente.com.br
